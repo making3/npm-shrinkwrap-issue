@@ -1,0 +1,10 @@
+{
+  "name": "npm-shrinkwrap-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "dependencies": {
+    "react": "^17.0.0"
+  }
+}
